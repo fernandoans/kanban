@@ -1,6 +1,12 @@
 # Manual de Uso
 
-Para sua execução é necessário ter o Java instalado (versão JRE). Após realizar o download executar o .jar (Instrução: java -jar Kanban.jar). Ao ser aberto, teremos a tela do Kanban com 3 áreas (chamada de “board”). Ao clicar com o botão direito do mouse sobre o “board” temos as seguintes opções a disposição:
+Para sua execução é necessário ter o Java instalado (versão JRE). 
+
+Execução: 
+
+java -jar Kanban.jar
+
+Ao ser aberto, teremos a tela do Kanban com 3 áreas (chamada de “board”). Ao clicar com o botão direito do mouse sobre o “board” temos as seguintes opções a disposição:
 
 * Tarefa: criação de um Post-It para colocar a tarefa a realizar
 * Abrir: abrir um projeto
