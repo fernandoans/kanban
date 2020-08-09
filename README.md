@@ -1,4 +1,6 @@
-# Manual de Uso
+# jKanban
+
+## Manual de Uso
 
 Para sua execução é necessário ter o Java 8.0 (versão JRE) instalado ou superior. 
 

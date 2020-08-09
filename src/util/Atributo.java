@@ -2,8 +2,8 @@ package util;
 
 public final class Atributo {
 
-  public static final String TITULO = "jKanban - Versao 1.1";
-  public static final String COPYRIGHT = "2020 - Fernando Anselmo - Licença GPL";
+  public static final String TITULO = "jKanban - Vers\343o 1.1";
+  public static final String COPYRIGHT = "2020 - Fernando Anselmo - Licen\347a GPL";
   
   private Atributo() {
     // Não criar objetos
