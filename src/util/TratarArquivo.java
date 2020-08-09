@@ -18,7 +18,7 @@ import canvas.JKanban;
 import canvas.PostIt;
 
 /**
- * Realiza todo o tratamento com arquivos do Projeto
+ * Realiza o tratamento com arquivos do Projeto
  * 
  * @author Fernando Anselmo
  * @version 1.0
